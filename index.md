@@ -1,10 +1,14 @@
 <html>
 
+<head>
+
+	<link rel="stylesheet" href="styles.css">
+
+</head>
 <body>
 
-	<h1>
-		<center>Myles Jack Was Down</center>
-	</h1>
+<div class="bg"></div>
+
 
 </body>
 
