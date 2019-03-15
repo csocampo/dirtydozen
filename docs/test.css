@@ -14,5 +14,5 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-blend-mode: lighten;
+  background-blend-mode: screen;
 }
